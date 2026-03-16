@@ -2,7 +2,7 @@
 
 Projeto de estudo do framework Spring Batch, construído a partir do artigo [Spring Batch em ação: processamento de grandes lotes de dados](https://devsuperior.com.br/blog/spring-batch-em-acao-processamento-de-grandes-lotes-de-dados)
 
-## Objetivo do Projeto:
+## Objetivo do projeto:
 
 Automatizar a leitura de relatórios de diversas fontes e gerar um relatório geral que centraliza os dados do negócio, utilizando processamento em lote.
 
